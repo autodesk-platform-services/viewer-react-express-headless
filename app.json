@@ -1,17 +1,17 @@
 {
   "name": "viewer-react-express-headless",
-  "description": "A React and Node JS (express) sample demonstrating the use of Forge Headless Viewer and custom made extensions.",
-  "repository": "https://github.com/Autodesk-Forge/viewer-react-express-headless.git",
-  "logo": "https://github.com/Autodesk-Forge/viewer-react-express-headless/raw/master/public/images/adsk.24x24.png",
-  "keywords": [ "node", "forge", "autodesk", "react" ],
-  "website": "https://developer.autodesk.com/",
+  "description": "A React and Node JS (express) sample demonstrating the use of Autodesk Headless Viewer and custom made extensions.",
+  "repository": "https://github.com/autodesk-platform-services/viewer-react-express-headless.git",
+  "logo": "https://cdn.autodesk.io/favicon.ico",
+  "keywords": [ "node", "autodesk", "react" ],
+  "website": "https://aps.autodesk.com/",
   "env": {
-	"FORGE_CLIENT_ID": {
-	  	"description": "Replace with your FORGE CLIENT ID KEY",
+	"APS_CLIENT_ID": {
+	  	"description": "Replace with your APS CLIENT ID KEY",
 		"value": "public"
 	},
-	"FORGE_CLIENT_SECRET": {
-	  	"description": "Replace with your FORGE CLIENT SECRET KEY",
+	"APS_CLIENT_SECRET": {
+	  	"description": "Replace with your APS CLIENT SECRET KEY",
 	  	"value": "secret"
 	}
   }

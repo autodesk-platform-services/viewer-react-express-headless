@@ -3,7 +3,7 @@
 [![Node.js](https://img.shields.io/badge/Node.js-20.6.1-blue.svg)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-9.8.1-green.svg)](https://www.npmjs.com/)
 ![Platforms](https://img.shields.io/badge/platform-windows%20%7C%20osx%20%7C%20linux-lightgray.svg)
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://opensource.org/licenses/MIT)
+
 
 [![oAuth2](https://img.shields.io/badge/oAuth2-v2-green.svg)](http://developer.autodesk.com/)
 [![Viewer](https://img.shields.io/badge/Viewer-v7.96-green.svg)](http://developer.autodesk.com/) 
